@@ -21,7 +21,7 @@ int main () {
             cout <<"Sua media sera: " << media << endl;
         }
         else if (media >= 2.85 && media < 7.00) {
-            pf = 7.0 - media;
+            pf = 10.0 - media;
             cout <<"Voce precisara fazer prova final. A nota minima para passar sera: " << pf << endl;
         }
         else {
